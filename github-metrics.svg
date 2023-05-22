@@ -545,7 +545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vavkamil/awesome-bugbounty-tools</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of various bug bounty tools</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>djadmin/awesome-bug-bounty</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive curated list of available Bug Bounty &amp; Disclosure Programs and Write-ups.</div>
@@ -639,7 +639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>telegramdesktop/tdesktop</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Telegram Desktop messaging app</div>
@@ -692,7 +692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TIM168/technical_books</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -817,7 +817,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.3911704312115 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1381,7 +1381,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2023, 10:05:00 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 May 2023, 11:07:09 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
