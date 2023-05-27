@@ -550,7 +550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ihciah/shadow-tls</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A proxy to expose real tls handshake to the firewall</div>
@@ -644,7 +644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vavkamil/awesome-bugbounty-tools</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of various bug bounty tools</div>
@@ -691,7 +691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>djadmin/awesome-bug-bounty</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive curated list of available Bug Bounty &amp; Disclosure Programs and Write-ups.</div>
@@ -1376,7 +1376,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2023, 02:07:12 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 May 2023, 03:03:03 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
