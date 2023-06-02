@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>node-red/node-red</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low-code programming for event-driven applications</div>
@@ -1402,7 +1402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2023, 06:04:18 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jun 2023, 07:06:24 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
