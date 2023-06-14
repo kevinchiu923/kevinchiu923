@@ -574,7 +574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OWASP/IoTGoat</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.</div>
@@ -627,7 +627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmk-foofus/medusa</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Medusa is a speedy, parallel, and modular, login brute-forcer.</div>
@@ -680,7 +680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>craigz28/firmwalker</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script for searching the extracted firmware file system for goodies!</div>
@@ -1418,7 +1418,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2023, 17:05:43 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jun 2023, 18:06:41 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
