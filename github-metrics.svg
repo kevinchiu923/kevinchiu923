@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blank-c/Umbral-Stealer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Umbral Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wtsxDev/reverse-engineering</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of awesome reverse engineering resources</div>
@@ -1427,7 +1427,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2023, 22:07:28 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 Jun 2023, 23:07:43 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
