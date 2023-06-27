@@ -590,7 +590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyberfascinate/ISC2-CC-Study-Material</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ISC2-CC-Study-Material</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blank-c/Umbral-Stealer</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Umbral Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.</div>
@@ -1416,7 +1416,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2023, 18:07:56 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jun 2023, 19:04:45 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
