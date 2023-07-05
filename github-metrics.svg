@@ -600,7 +600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yhirose/cpp-httplib</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C++ header-only HTTP/HTTPS server and client library</div>
@@ -653,7 +653,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnthonyCalandra/modern-cpp-features</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cheatsheet of modern C++ language and library features.</div>
@@ -706,7 +706,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/winget-pkgs</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Microsoft community Windows Package Manager manifest repository</div>
@@ -734,7 +734,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        2.60k
+                                        2.61k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -753,7 +753,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>telegram-sms/telegram-sms</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An SMS-forwarding Robot Running on Your Android Device.</div>
@@ -1444,7 +1444,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2023, 06:07:22 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jul 2023, 07:07:34 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
