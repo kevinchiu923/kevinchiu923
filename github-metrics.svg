@@ -609,7 +609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MZhao-ouo/CMDGPT</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">用自然语言操作命令行 | Interact with the command line using natural language.</div>
@@ -662,7 +662,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/JARVIS</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</div>
@@ -896,7 +896,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2023, 04:07:41 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Jul 2023, 05:05:30 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
