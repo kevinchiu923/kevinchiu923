@@ -663,7 +663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trickest/cve</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gather and update all available and newest CVEs with their PoC.</div>
@@ -716,7 +716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhzyker/exphub</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340</div>
@@ -763,7 +763,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MZhao-ouo/CMDGPT</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">用自然语言操作命令行 | Interact with the command line using natural language.</div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2023, 00:09:03 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 01:05:47 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
