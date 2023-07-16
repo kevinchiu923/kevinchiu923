@@ -707,7 +707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>3nock/OTE</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OSINT Template Engine</div>
@@ -888,7 +888,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2023, 23:05:28 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jul 2023, 00:07:45 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
