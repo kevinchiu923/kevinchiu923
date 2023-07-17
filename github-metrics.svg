@@ -710,7 +710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>3nock/OTE</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OSINT Template Engine</div>
@@ -763,7 +763,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trickest/cve</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gather and update all available and newest CVEs with their PoC.</div>
@@ -891,7 +891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2023, 22:07:16 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jul 2023, 23:07:27 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
