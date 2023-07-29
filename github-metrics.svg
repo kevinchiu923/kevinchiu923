@@ -630,7 +630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaaddress1/The-Purified-Elements</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Purified Windows 11: without Defender, Updater, Patches, System Health, etc.</div>
@@ -671,7 +671,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coder/code-server</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VS Code in the browser</div>
@@ -887,7 +887,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2023, 23:04:05 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Jul 2023, 00:06:38 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
