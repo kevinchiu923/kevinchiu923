@@ -661,7 +661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AFLplusplus/AFLplusplus</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel &amp; redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!</div>
@@ -924,7 +924,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2023, 06:04:41 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Aug 2023, 07:04:31 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
