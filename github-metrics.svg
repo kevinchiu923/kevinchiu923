@@ -664,7 +664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>claroty/busybox-fuzzing</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -712,7 +712,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/honggfuzz</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)</div>
@@ -765,7 +765,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aoh/radamsa</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a general-purpose fuzzer</div>
@@ -935,7 +935,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2023, 19:03:53 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 20:11:28 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
