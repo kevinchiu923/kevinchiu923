@@ -641,6 +641,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -664,7 +665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coffeehb/Some-PoC-oR-ExP</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">各种漏洞poc、Exp的收集或编写</div>
@@ -711,7 +712,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scrt/cve-2022-42475</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">POC code to exploit the Heap overflow in Fortinet's SSLVPN daemon</div>
@@ -758,7 +759,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>claroty/busybox-fuzzing</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -806,7 +807,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/honggfuzz</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)</div>
@@ -935,7 +936,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2023, 07:05:28 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Aug 2023, 08:28:34 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
