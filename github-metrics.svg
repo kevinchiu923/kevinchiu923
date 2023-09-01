@@ -674,7 +674,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WazeHell/vulnerable-AD</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab</div>
@@ -945,7 +945,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2023, 17:06:48 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Sept 2023, 18:07:21 (timezone Asia/Taipei) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
