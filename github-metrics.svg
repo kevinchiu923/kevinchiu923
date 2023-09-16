@@ -746,7 +746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coffeehb/Some-PoC-oR-ExP</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">各种漏洞poc、Exp的收集或编写</div>
@@ -793,7 +793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scrt/cve-2022-42475</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">POC code to exploit the Heap overflow in Fortinet's SSLVPN daemon</div>
@@ -1266,7 +1266,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 987k out of 119m users</span>
+                                    <span class="gh">ranked 988k out of 119m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -1527,7 +1527,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2023, 20:10:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2023, 21:04:29 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
