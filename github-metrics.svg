@@ -720,7 +720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eset/malware-ioc</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Indicators of Compromises (IOC) of our various investigations</div>
@@ -1571,7 +1571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2023, 22:04:12 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2023, 23:04:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
