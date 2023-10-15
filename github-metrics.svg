@@ -730,7 +730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netnr/kms</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KMS 激活服务，slmgr 命令激活 Windows 系统、Office</div>
@@ -783,7 +783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eelis/GrappleMap</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grappling technique map</div>
@@ -889,7 +889,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xlwings/xlwings</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.</div>
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2023, 17:04:31 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2023, 18:06:04 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
