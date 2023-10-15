@@ -730,7 +730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netnr/kms</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KMS 激活服务，slmgr 命令激活 Windows 系统、Office</div>
@@ -836,7 +836,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eset/malware-ioc</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Indicators of Compromises (IOC) of our various investigations</div>
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2023, 22:03:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2023, 23:04:53 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
