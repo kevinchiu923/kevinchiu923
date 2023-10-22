@@ -793,7 +793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MISP/MISP</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MISP (core software) - Open Source Threat Intelligence and Sharing Platform</div>
@@ -846,7 +846,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenCTI-Platform/opencti</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Cyber Threat Intelligence Platform</div>
@@ -1591,7 +1591,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2023, 11:07:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2023, 12:07:43 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
