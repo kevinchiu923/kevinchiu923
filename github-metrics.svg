@@ -853,7 +853,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dfirsec/check_rep</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Check IP or Domain reputation against open-source Blacklists.</div>
@@ -906,7 +906,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phishfort/phishfort-lists</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blacklists and whitelists maintained by PhishFort</div>
@@ -1598,7 +1598,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2023, 15:05:19 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2023, 16:07:48 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
