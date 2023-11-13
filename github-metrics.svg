@@ -769,7 +769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chrislgarry/Apollo-11</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</div>
@@ -1226,7 +1226,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.55m out of 125m users</span>
+                                    <span class="gh">ranked 1.66m out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1614,7 +1614,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 14:09:30 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 15:06:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
