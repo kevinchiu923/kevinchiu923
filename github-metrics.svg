@@ -779,7 +779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hatching/triage</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hatching Triage public command-line utility and API library.</div>
@@ -832,7 +832,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sdlpal/SDL</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a modified version of the official SDL2 release for SDLPAL.</div>
@@ -885,7 +885,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weimzh/sdlpal</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">THIS BRANCH IS NO LONGER MAINTAINED. Please use http://github.com/sdlpal/sdlpal instead.</div>
@@ -1627,7 +1627,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 15:06:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 16:09:38 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
