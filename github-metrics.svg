@@ -783,7 +783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NH-RED-TEAM/RustHound</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Active Directory data collector for BloodHound written in Rust. 🦀</div>
@@ -889,7 +889,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hatching/triage</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hatching Triage public command-line utility and API library.</div>
@@ -1634,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2023, 14:08:16 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 15:04:25 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
