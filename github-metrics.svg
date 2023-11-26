@@ -943,7 +943,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sdlpal/SDL</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a modified version of the official SDL2 release for SDLPAL.</div>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 15:05:20 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 16:08:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
