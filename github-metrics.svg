@@ -790,7 +790,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strace/strace</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">strace is a diagnostic, debugging and instructional userspace utility for Linux</div>
@@ -843,7 +843,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khast3x/h8mail</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email</div>
@@ -1630,7 +1630,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 08:31:44 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 09:46:34 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
