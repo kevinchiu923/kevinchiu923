@@ -790,7 +790,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MrSaighnal/GCR-Google-Calendar-RAT</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events</div>
@@ -843,7 +843,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>objective-see/Malware</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macOS Malware Collection</div>
@@ -890,7 +890,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strace/strace</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">strace is a diagnostic, debugging and instructional userspace utility for Linux</div>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 19:04:34 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 20:12:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
