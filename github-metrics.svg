@@ -791,7 +791,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wazuh/wazuh</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</div>
@@ -844,7 +844,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattsse/voyager</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">crawl and scrape web pages in rust</div>
@@ -897,7 +897,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MrSaighnal/GCR-Google-Calendar-RAT</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Calendar RAT is a PoC of Command&amp;Control over Google Calendar Events</div>
@@ -950,7 +950,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>objective-see/Malware</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macOS Malware Collection</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2023, 12:08:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2023, 13:07:22 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
