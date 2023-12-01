@@ -791,7 +791,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uber/h3</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hexagonal hierarchical geospatial indexing system</div>
@@ -844,7 +844,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wazuh/wazuh</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</div>
@@ -897,7 +897,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattsse/voyager</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">crawl and scrape web pages in rust</div>
@@ -1642,7 +1642,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2023, 21:10:32 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2023, 22:06:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
