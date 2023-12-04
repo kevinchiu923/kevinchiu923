@@ -796,7 +796,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cisco-Talos/IOCs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Indicators of Compromise</div>
@@ -943,7 +943,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattsse/voyager</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">crawl and scrape web pages in rust</div>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2023, 22:07:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2023, 23:07:28 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
