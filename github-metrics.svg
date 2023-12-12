@@ -806,7 +806,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>techchipnet/CamPhish</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grab cam shots from target's phone front camera or PC webcam just sending a link.</div>
@@ -912,7 +912,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgaa/shinysocks</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small, ultrafast SOCKS proxy server.</div>
@@ -1384,7 +1384,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.03m out of 126m users</span>
+                                    <span class="gh">ranked 999k out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -1645,7 +1645,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2023, 18:07:47 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 19:05:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
