@@ -824,7 +824,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>decalage2/oletools</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.</div>
@@ -1669,7 +1669,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 02:08:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 03:03:48 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
