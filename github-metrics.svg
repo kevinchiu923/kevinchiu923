@@ -494,7 +494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>david-a-wheeler/flawfinder</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a static analysis tool for finding vulnerabilities in C/C++ source code</div>
@@ -547,7 +547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OWASP/www-community</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.</div>
@@ -1233,7 +1233,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2024, 02:09:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2024, 03:04:40 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
