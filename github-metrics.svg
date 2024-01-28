@@ -394,7 +394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n1nj4sec/pupy</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C</div>
@@ -447,7 +447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/awesome</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 Awesome lists about all kinds of interesting topics</div>
@@ -1240,7 +1240,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2024, 04:05:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2024, 05:05:57 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
