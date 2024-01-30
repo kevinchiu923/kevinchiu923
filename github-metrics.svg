@@ -398,7 +398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tpm2-software/tpm2-tools</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The source repository for the Trusted Platform Module (TPM2.0) tools</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DownrightNifty/gh_hack_PoC</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -499,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n1nj4sec/pupy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C</div>
@@ -1239,7 +1239,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2024, 01:05:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2024, 02:08:34 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
