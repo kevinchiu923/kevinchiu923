@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itm4n/PrintSpoofer</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Abusing impersonation privileges through the "Printer Bug"</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NyDubh3/CuiRi</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。</div>
@@ -1236,7 +1236,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Feb 2024, 22:03:39 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2024, 23:04:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
