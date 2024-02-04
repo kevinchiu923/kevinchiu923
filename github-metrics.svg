@@ -503,7 +503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alphaSeclab/awesome-rat</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RAT And C&amp;C Resources. 250+ Open Source Projects, 1200+ RAT/C&amp;C blog/video.</div>
@@ -544,7 +544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stamparm/maltrail</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Malicious traffic detection system</div>
@@ -849,7 +849,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.72m out of 129m users</span>
+                                    <span class="gh">ranked 1.72m out of 130m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -976,7 +976,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 977k out of 129m users</span>
+                                    <span class="gh">ranked 977k out of 130m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">14</div>
                                     </div>
@@ -1237,7 +1237,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2024, 19:04:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Feb 2024, 20:10:24 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
