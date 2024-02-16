@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GhostPack/SharpDump</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SharpDump is a C# port of PowerSploit's Out-Minidump.ps1 functionality.</div>
@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>byt3bl33d3r/CrackMapExec</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A swiss army knife for pentesting networks</div>
@@ -1272,7 +1272,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2024, 18:07:25 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2024, 19:04:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
