@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x0rz/EQGRP</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decrypted content of eqgrp-auction-file.tar.xz</div>
@@ -573,7 +573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CCob/SweetPotato</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019</div>
@@ -1260,7 +1260,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2024, 12:08:09 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2024, 13:06:51 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
