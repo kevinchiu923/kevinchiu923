@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MegaManSec/LDAP-Monitoring-Watchdog</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LDAP Watchdog: A real-time linux-compatible LDAP monitoring tool for detecting directory changes, providing visibility into additions, modifications, and deletions for administrators and security researchers.</div>
@@ -481,7 +481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MegaManSec/SSH-Snake</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.</div>
@@ -534,7 +534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizinorg/cutter</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and Open Source Reverse Engineering Platform powered by rizin</div>
@@ -587,7 +587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dec0ne/KrbRelayUp</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).</div>
@@ -1275,7 +1275,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2024, 08:30:02 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2024, 09:38:19 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
