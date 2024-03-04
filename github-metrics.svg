@@ -442,7 +442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>breenmachine/RottenPotatoNG</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.</div>
@@ -489,7 +489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Datalux/Osintgram</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname</div>
@@ -542,7 +542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stevenyu113228/TL-DW</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Too Long; Don't Watch。使用 OpenAI 的 GPT3 幫忙把課程影片截圖並總結，產出繁體中文的 Docx 檔報告</div>
@@ -1023,7 +1023,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 865k out of 131m users</span>
+                                    <span class="gh">ranked 866k out of 131m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -1284,7 +1284,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2024, 00:08:40 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2024, 01:06:54 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
