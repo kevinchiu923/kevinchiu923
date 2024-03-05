@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azerupi/mdBook</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create book from markdown files. Like Gitbook but implemented in Rust</div>
@@ -496,7 +496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>askeing/rust-book</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust 程式語言 正體中文版 (The Rust Programming Language, Traditional Chinese)</div>
@@ -543,7 +543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rust</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Empowering everyone to build reliable and efficient software.</div>
@@ -596,7 +596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Allevon412/PPL_Sandboxer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1286,7 +1286,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2024, 20:11:34 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2024, 21:06:12 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
