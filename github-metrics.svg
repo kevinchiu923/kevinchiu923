@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n0kovo/hashcat-rules-collection</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Probably the largest collection of hashcat rule-files anywhere.</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>breenmachine/RottenPotatoNG</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Datalux/Osintgram</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname</div>
@@ -1273,7 +1273,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2024, 11:07:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2024, 12:08:25 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
