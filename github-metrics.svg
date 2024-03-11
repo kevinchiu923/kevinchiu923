@@ -451,7 +451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DLR-RM/stable-baselines3</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.</div>
@@ -504,7 +504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tree-sitter/tree-sitter</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An incremental parsing system for programming tools</div>
@@ -1282,7 +1282,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2024, 03:04:57 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2024, 04:07:59 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
