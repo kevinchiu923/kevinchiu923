@@ -621,7 +621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xZ0F/Z0FCourse_ReverseEngineering</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reverse engineering focusing on x64 Windows.</div>
@@ -1317,7 +1317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2024, 18:07:20 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2024, 19:05:25 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
