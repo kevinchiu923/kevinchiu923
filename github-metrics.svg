@@ -528,7 +528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ccgus/fmdb</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Cocoa / Objective-C wrapper around SQLite</div>
@@ -581,7 +581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stephencelis/SQLite.swift</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A type-safe, Swift-language layer over SQLite3.</div>
@@ -1378,7 +1378,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2024, 04:08:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2024, 05:07:15 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
