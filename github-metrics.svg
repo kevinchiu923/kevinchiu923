@@ -532,7 +532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apple/swift-llvm-bindings</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swift Bindings for LLVM Project APIs</div>
@@ -585,7 +585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm-swift/LLVMSwift</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Swift wrapper for the LLVM C API (version 11.0)</div>
@@ -638,7 +638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-webui/open-webui</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">User-friendly WebUI for LLMs (Formerly Ollama WebUI)</div>
@@ -691,7 +691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kuglee/TermiWatch</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terminal Watch Face for Apple Watch</div>
@@ -1000,7 +1000,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.81m out of 136m users</span>
+                                    <span class="gh">ranked 1.81m out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1127,7 +1127,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 791k out of 136m users</span>
+                                    <span class="gh">ranked 791k out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -1388,7 +1388,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2024, 14:10:21 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2024, 15:08:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
