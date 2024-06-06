@@ -669,7 +669,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>onx/CIH</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The source code of the CIH virus</div>
@@ -1026,7 +1026,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.83m out of 130m users</span>
+                                    <span class="gh">ranked 1.83m out of 138m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1153,7 +1153,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 756k out of 130m users</span>
+                                    <span class="gh">ranked 756k out of 138m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -1414,7 +1414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2024, 03:06:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jun 2024, 04:09:39 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
