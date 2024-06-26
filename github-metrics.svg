@@ -588,7 +588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Notselwyn/CVE-2024-1086</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.</div>
@@ -744,7 +744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cathugger/mkp224o</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vanity address generator for tor onion v3 (ed25519) hidden services</div>
@@ -1441,7 +1441,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2024, 16:10:13 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 17:09:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
