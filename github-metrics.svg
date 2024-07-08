@@ -604,7 +604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SitinCloud/Owlyshield</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&amp;C, exfiltration and impact).</div>
@@ -657,7 +657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/windows-rs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust for Windows</div>
@@ -710,7 +710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-unofficial/awesome-rust</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of Rust code and resources.</div>
@@ -763,7 +763,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustScan/RustScan</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 The Modern Port Scanner 🤖</div>
@@ -1072,7 +1072,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.86m out of 139m users</span>
+                                    <span class="gh">ranked 1.86m out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1199,7 +1199,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 814k out of 139m users</span>
+                                    <span class="gh">ranked 814k out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -1460,7 +1460,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2024, 20:14:09 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2024, 21:11:17 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
