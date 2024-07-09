@@ -605,7 +605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/json</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Strongly typed JSON library for Rust</div>
@@ -658,7 +658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kleampa/not-paid</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</div>
@@ -705,7 +705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/serde</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serialization framework for Rust</div>
@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sickcodes/Docker-OSX</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</div>
@@ -1455,7 +1455,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 18:08:40 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 19:07:42 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
