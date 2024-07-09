@@ -605,7 +605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kleampa/not-paid</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</div>
@@ -652,7 +652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/serde</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serialization framework for Rust</div>
@@ -705,7 +705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sickcodes/Docker-OSX</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</div>
@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyperium/hyper</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An HTTP library for Rust</div>
@@ -1067,7 +1067,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.86m out of 140m users</span>
+                                    <span class="gh">ranked 1.86m out of 138m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1194,7 +1194,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 814k out of 140m users</span>
+                                    <span class="gh">ranked 814k out of 138m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -1455,7 +1455,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 16:09:27 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 17:08:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
