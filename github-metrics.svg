@@ -605,7 +605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/json</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Strongly typed JSON library for Rust</div>
@@ -658,7 +658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kleampa/not-paid</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</div>
@@ -705,7 +705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/serde</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serialization framework for Rust</div>
@@ -1455,7 +1455,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2024, 06:08:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 07:08:25 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
