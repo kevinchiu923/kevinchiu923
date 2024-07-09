@@ -605,7 +605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/serde</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serialization framework for Rust</div>
@@ -658,7 +658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sickcodes/Docker-OSX</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</div>
@@ -711,7 +711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyperium/hyper</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An HTTP library for Rust</div>
@@ -764,7 +764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustls/rustls</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern TLS library in Rust</div>
@@ -1461,7 +1461,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 12:09:36 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 13:07:57 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
