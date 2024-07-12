@@ -608,7 +608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ivbeg/awesome-forensicstools</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome list of digital forensic tools</div>
@@ -655,7 +655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>504ensicsLabs/LiME</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures from Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.</div>
@@ -1191,7 +1191,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 815k out of 140m users</span>
+                                    <span class="gh">ranked 816k out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -1452,7 +1452,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2024, 20:14:22 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2024, 21:10:59 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
