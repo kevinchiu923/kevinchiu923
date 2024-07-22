@@ -622,7 +622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/pytorch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tensors and Dynamic neural networks in Python with strong GPU acceleration</div>
@@ -675,7 +675,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>torch/torch7</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">http://torch.ch</div>
@@ -728,7 +728,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tensorflow/tensorflow</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open Source Machine Learning Framework for Everyone</div>
@@ -1472,7 +1472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2024, 11:10:12 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 12:09:58 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
