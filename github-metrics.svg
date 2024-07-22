@@ -622,7 +622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/candle</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist ML framework for Rust</div>
@@ -675,7 +675,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vaaaaanquish/Awesome-Rust-MachineLearning</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀</div>
@@ -728,7 +728,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/pytorch</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tensors and Dynamic neural networks in Python with strong GPU acceleration</div>
@@ -781,7 +781,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>torch/torch7</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">http://torch.ch</div>
@@ -1478,7 +1478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2024, 14:11:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 15:07:58 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
