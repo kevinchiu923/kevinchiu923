@@ -624,7 +624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ambionics/cnext-exploits</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv()</div>
@@ -1456,7 +1456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2024, 21:11:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2024, 22:08:23 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
