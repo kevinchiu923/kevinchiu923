@@ -627,7 +627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meta-llama/llama3</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official Meta Llama 3 GitHub site</div>
@@ -680,7 +680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ambionics/cnext-exploits</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv()</div>
@@ -1466,7 +1466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2024, 17:07:38 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2024, 18:08:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
