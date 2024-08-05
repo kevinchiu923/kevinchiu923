@@ -693,7 +693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trendmicro/telfhash</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Symbol hash for ELF files</div>
@@ -746,7 +746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ml-explore/mlx</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MLX: An array framework for Apple silicon</div>
@@ -799,7 +799,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ml-explore/mlx-examples</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples in the MLX framework</div>
@@ -1497,7 +1497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2024, 14:11:43 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2024, 15:08:40 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
