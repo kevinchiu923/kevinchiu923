@@ -640,7 +640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radareorg/radare2</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UNIX-like reverse engineering framework and command-line toolset</div>
@@ -693,7 +693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssdeep-project/ssdeep</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fuzzy hashing API and fuzzy hashing tool</div>
@@ -746,7 +746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trendmicro/telfhash</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Symbol hash for ELF files</div>
@@ -799,7 +799,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ml-explore/mlx</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MLX: An array framework for Apple silicon</div>
@@ -1497,7 +1497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2024, 01:07:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2024, 02:10:58 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
