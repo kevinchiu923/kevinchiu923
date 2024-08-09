@@ -644,7 +644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mem0ai/mem0</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The memory layer for Personalized AI</div>
@@ -697,7 +697,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyCQA/bandit</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bandit is a tool designed to find common security issues in Python code.</div>
@@ -750,7 +750,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyupio/safety</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.</div>
@@ -803,7 +803,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ton-society/ecosystem-map</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TON Ecosystem Map</div>
@@ -1490,7 +1490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2024, 23:08:57 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2024, 00:09:30 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
