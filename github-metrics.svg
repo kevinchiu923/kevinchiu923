@@ -646,7 +646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>taide-taiwan/taide-bench-eval</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -753,7 +753,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyCQA/bandit</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bandit is a tool designed to find common security issues in Python code.</div>
@@ -806,7 +806,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyupio/safety</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.</div>
@@ -1505,7 +1505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2024, 23:07:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2024, 00:08:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
