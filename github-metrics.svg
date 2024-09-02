@@ -676,7 +676,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomi-sec/PoC-in-GitHub</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</div>
@@ -717,7 +717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abatchy17/WindowsExploits</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.</div>
@@ -770,7 +770,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SecWiki/windows-kernel-exploits</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">windows-kernel-exploits   Windows平台提权漏洞集合</div>
@@ -823,7 +823,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JoelGMSec/AutoRDPwn</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Shadow Attack Framework</div>
@@ -1522,7 +1522,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2024, 04:08:58 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2024, 05:07:19 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
