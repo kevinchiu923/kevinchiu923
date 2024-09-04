@@ -678,7 +678,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/proxy</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy: Next Generation Polymorphism in C++</div>
@@ -731,7 +731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomi-sec/PoC-in-GitHub</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</div>
@@ -772,7 +772,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abatchy17/WindowsExploits</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.</div>
@@ -825,7 +825,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SecWiki/windows-kernel-exploits</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">windows-kernel-exploits   Windows平台提权漏洞集合</div>
@@ -1524,7 +1524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2024, 15:08:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2024, 16:10:17 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
