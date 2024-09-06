@@ -786,7 +786,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomi-sec/PoC-in-GitHub</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</div>
@@ -827,7 +827,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abatchy17/WindowsExploits</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.</div>
@@ -1526,7 +1526,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2024, 15:08:15 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Sept 2024, 16:11:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
