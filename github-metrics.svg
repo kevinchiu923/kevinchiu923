@@ -689,7 +689,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intelowlproject/IntelOwl</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IntelOwl: manage your Threat Intelligence at scale</div>
@@ -848,7 +848,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomi-sec/PoC-in-GitHub</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</div>
@@ -1535,7 +1535,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 15:08:41 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 16:11:23 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
