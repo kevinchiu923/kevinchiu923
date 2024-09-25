@@ -705,7 +705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peass-ng/PEASS-ng</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</div>
@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intelowlproject/IntelOwl</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IntelOwl: manage your Threat Intelligence at scale</div>
@@ -1563,7 +1563,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 11:16:57 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 12:11:29 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
