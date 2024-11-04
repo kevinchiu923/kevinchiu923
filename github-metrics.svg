@@ -757,7 +757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/whisper</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Robust Speech Recognition via Large-Scale Weak Supervision</div>
@@ -810,7 +810,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flameddd/blog</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">my blog</div>
@@ -904,7 +904,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coder/coder</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provision remote development environments via Terraform</div>
@@ -1217,7 +1217,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.96m out of 148m users</span>
+                                    <span class="gh">ranked 1.97m out of 148m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1605,7 +1605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2024, 14:13:38 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2024, 15:09:34 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
