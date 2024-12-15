@@ -808,7 +808,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/ms-tpm-20-ref</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reference implementation of the TCG Trusted Platform Module 2.0 specification.</div>
@@ -861,7 +861,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TPM-2.0-Parser</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parse TPM 2.0 Command and Response streams</div>
@@ -914,7 +914,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/go-tpm</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -949,7 +949,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        94
+                                        95
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1268,7 +1268,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2m out of 148m users</span>
+                                    <span class="gh">ranked 2m out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1395,7 +1395,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 764k out of 148m users</span>
+                                    <span class="gh">ranked 764k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -1656,7 +1656,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2024, 05:09:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 06:08:31 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
