@@ -812,7 +812,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/ms-tpm-20-ref</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reference implementation of the TCG Trusted Platform Module 2.0 specification.</div>
@@ -865,7 +865,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TPM-2.0-Parser</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parse TPM 2.0 Command and Response streams</div>
@@ -918,7 +918,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/go-tpm</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1660,7 +1660,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 01:08:44 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 02:13:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
