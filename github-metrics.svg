@@ -824,7 +824,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenSPG/KAG</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</div>
@@ -877,7 +877,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fail2ban/fail2ban</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Daemon to ban hosts that cause multiple authentication errors</div>
@@ -1683,7 +1683,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2024, 16:11:49 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2024, 17:09:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
