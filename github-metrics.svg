@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>howtomakeaturn/ListPower</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ListPower 讓你可以針對特定主題，與社群一起蒐集整理資料，感受到清單力量的強大！</div>
@@ -849,7 +849,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.03m out of 153m users</span>
+                                    <span class="gh">ranked 2.03m out of 154m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -976,7 +976,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 740k out of 153m users</span>
+                                    <span class="gh">ranked 740k out of 154m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -1237,7 +1237,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2025, 04:08:42 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2025, 05:08:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
