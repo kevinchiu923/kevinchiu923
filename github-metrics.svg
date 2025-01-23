@@ -389,7 +389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>electerm/electerm</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)</div>
@@ -442,7 +442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/Detours</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.</div>
@@ -548,7 +548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>howtomakeaturn/ListPower</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ListPower 讓你可以針對特定主題，與社群一起蒐集整理資料，感受到清單力量的強大！</div>
@@ -1250,7 +1250,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2025, 17:09:28 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 18:09:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
