@@ -389,7 +389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>electerm/electerm</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)</div>
@@ -1250,7 +1250,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2025, 14:12:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 15:09:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
