@@ -390,7 +390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YYJ-TW/YYJStock</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">股市資料一把抓，由軟體協助選股、買進和賣出訊號分析，節省研究時間！Capture stock market data and analyze stock selection, buy and sell signals with software assistance to save research time!</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ranaroussi/yfinance</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download market data from Yahoo! Finance's API</div>
@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>electerm/electerm</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)</div>
@@ -984,7 +984,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 707k out of 154m users</span>
+                                    <span class="gh">ranked 708k out of 154m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -1245,7 +1245,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 18:09:29 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 19:07:43 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
