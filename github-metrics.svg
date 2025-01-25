@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YYJ-TW/YYJStock</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">股市資料一把抓，由軟體協助選股、買進和賣出訊號分析，節省研究時間！Capture stock market data and analyze stock selection, buy and sell signals with software assistance to save research time!</div>
@@ -438,7 +438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ranaroussi/yfinance</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download market data from Yahoo! Finance's API</div>
@@ -1246,7 +1246,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2025, 15:07:48 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jan 2025, 16:10:27 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
