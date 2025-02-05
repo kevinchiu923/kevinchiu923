@@ -406,7 +406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FinMind/FinMind</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/</div>
@@ -1261,7 +1261,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 02:12:04 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 03:07:43 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
