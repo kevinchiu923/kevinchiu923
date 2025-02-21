@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jtpereyda/boofuzz</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fork and successor of the Sulley Fuzzing Framework</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/AFL</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">american fuzzy lop - a security-oriented fuzzer</div>
@@ -1283,7 +1283,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2025, 15:09:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 16:12:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
