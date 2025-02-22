@@ -427,7 +427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doitsujin/dxvk</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</div>
@@ -480,7 +480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krallin/tini</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny but valid `init` for containers</div>
@@ -1288,7 +1288,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2025, 19:06:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2025, 20:13:53 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
