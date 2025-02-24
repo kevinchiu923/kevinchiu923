@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salesforce/CodeGen</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jserv/amacc</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small C Compiler generating ELF executable Arm architecture, supporting JIT execution</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>academicpages/academicpages.github.io</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes</div>
@@ -1291,7 +1291,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2025, 15:09:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2025, 16:13:12 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
