@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BloodHoundAD/BARK</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BloodHound Attack Research Kit</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salesforce/CodeGen</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jserv/amacc</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small C Compiler generating ELF executable Arm architecture, supporting JIT execution</div>
@@ -1291,7 +1291,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2025, 06:08:16 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2025, 07:10:36 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
