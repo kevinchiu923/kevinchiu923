@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepseek-ai/FlashMLA</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -487,7 +487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hackndo/pyGPOAbuse</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Partial python implementation of SharpGPOAbuse</div>
@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oakkaya/Prince-Ransomware</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go ransomware utilising ChaCha20 and ECIES encryption.</div>
@@ -1294,7 +1294,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2025, 06:08:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Feb 2025, 07:09:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
