@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salesforce/CodeGen</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jserv/amacc</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small C Compiler generating ELF executable Arm architecture, supporting JIT execution</div>
@@ -1293,7 +1293,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2025, 11:16:40 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2025, 12:11:49 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
