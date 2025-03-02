@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dav1dde/glad</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.</div>
@@ -543,7 +543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glfw/glfw</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input</div>
@@ -1297,7 +1297,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2025, 23:08:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2025, 00:09:20 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
