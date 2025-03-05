@@ -442,7 +442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsdelivr/jsdelivr</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM</div>
@@ -495,7 +495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zuramai/mazer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page</div>
@@ -548,7 +548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slimm609/checksec</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checksec</div>
@@ -1302,7 +1302,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2025, 05:08:41 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2025, 06:09:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
