@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsdelivr/jsdelivr</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM</div>
@@ -1303,7 +1303,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2025, 03:07:20 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2025, 04:10:11 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
