@@ -470,7 +470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yogsec/API-Pentesting-Tools</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).</div>
@@ -517,7 +517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>daattali/beautiful-jekyll</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com</div>
@@ -570,7 +570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hydecorp/hydejack</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A boutique Jekyll theme for hackers, nerds, and academics</div>
@@ -623,7 +623,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashirshoaeb/home</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The personal website/portfolio template by Hashir Shoaib. Built using React and Bootstrap.</div>
@@ -760,7 +760,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.0369609856262585 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.12183436002738 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1324,7 +1324,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2025, 10:18:42 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Mar 2025, 11:25:52 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
