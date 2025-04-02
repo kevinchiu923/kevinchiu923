@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            150 Commits
+                            154 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.42749060227658" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="212.42749060227658" y="0" width="157.19960392371723" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="369.6270945259938" y="0" width="47.41392308537885" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="417.04101761137264" y="0" width="24.085904237133366" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.126921848506" y="0" width="11.049359794968204" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.1762816434742" y="0" width="3.6582353312854385" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.83451697475965" y="0" width="3.5328169454174683" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.36733392017715" y="0" width="0.6326660798228735" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.3423024727969" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="212.3423024727969" y="0" width="157.13656340021794" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="369.47886587301485" y="0" width="47.39490905189624" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.87377492491106" y="0" width="24.260715446014935" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.134490370926" y="0" width="11.044928756922173" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.1794191278482" y="0" width="3.6567682978794274" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.8361874257276" y="0" width="3.5314002075624904" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.36758763329004" y="0" width="0.6324123667098837" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MrWillCom/hexo-theme-cupertino</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Hexo Blog Theme Cupertino.</div>
@@ -775,7 +775,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2025, 03:07:44 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 04:10:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
