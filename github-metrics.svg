@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            189 Commits
+                            190 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.7209932159914" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="194.7209932159914" y="0" width="144.09652405345804" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="338.81751726944947" y="0" width="58.98785336766661" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="397.8053706371161" y="0" width="43.46182393472499" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.26719457184106" y="0" width="10.28602643387109" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="451.55322100571215" y="0" width="4.5135376694762455" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="456.0667586751884" y="0" width="3.353309946401532" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.42006862158996" y="0" width="0.5799313784101038" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.72045249342665" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="194.72045249342665" y="0" width="144.09612391045974" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="338.8165764038864" y="0" width="58.98768956373959" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="397.804265967626" y="0" width="43.46170324517571" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.26596921280174" y="0" width="10.285997870507158" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="451.5519670833089" y="0" width="4.514802514134469" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="456.0667695974434" y="0" width="3.3533006345634777" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.4200702320069" y="0" width="0.5799297679931831" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RyanZim/EJS-Lint</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linter/Syntax Checker for EJS Templates.</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bjornhels/CVE-2025-30065</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PoC</div>
@@ -778,7 +778,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2025, 15:10:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2025, 16:13:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
