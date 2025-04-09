@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            196 Commits
+                            207 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.8315181171659" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="194.8315181171659" y="0" width="144.17831417694475" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="339.0098322941107" y="0" width="58.31454211818838" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="397.32437441229905" y="0" width="43.486493148433865" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.81086756073296" y="0" width="11.484886385422277" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.2957539461552" y="0" width="3.768772195696431" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="456.0645261418516" y="0" width="3.3552133069191235" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.4197394487707" y="0" width="0.580260551229265" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.30990590409988" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="187.30990590409988" y="0" width="138.6122056784193" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="325.92211158251916" y="0" width="73.82190086082217" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="399.7440124433413" y="0" width="41.80766550735389" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.55167795069525" y="0" width="11.041504007986207" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.59318195868144" y="0" width="3.6232760087891025" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="456.21645796747055" y="0" width="3.2256828611747754" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.44214082864534" y="0" width="0.5578591713546711" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -487,7 +487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/markitdown</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python tool for converting files and office documents to Markdown.</div>
@@ -779,7 +779,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2025, 04:10:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2025, 05:08:22 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
