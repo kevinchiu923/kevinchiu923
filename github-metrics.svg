@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>electerious/Ackee</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted, Node.js based analytics tool for those who care about privacy.</div>
@@ -551,7 +551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jasongin/nvs</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js</div>
@@ -791,7 +791,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2025, 10:19:35 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2025, 11:26:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
