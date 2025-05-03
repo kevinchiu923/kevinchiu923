@@ -517,7 +517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ififi2017/Off-Work-Countdown</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Off Work Countdown is a Next.js-based web application that helps you keep track of the time remaining until the end of your workday. With a sleek and interactive interface, this app provides a visual countdown and progress bar to make your workday more manageable.</div>
@@ -570,7 +570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>armosec/curing</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">io_uring based rootkit</div>
@@ -670,7 +670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaidTw/YaDa</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YaDa is the yara binary file decompiler</div>
@@ -803,7 +803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2025, 15:08:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2025, 16:11:27 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
