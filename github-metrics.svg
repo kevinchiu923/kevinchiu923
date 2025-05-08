@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xrawsec/golang-win32</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Golang wrappers functions to call Windows APIs</div>
@@ -577,7 +577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shirou/gopsutil</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">psutil for golang</div>
@@ -630,7 +630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markuta/bw-dump</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault.</div>
@@ -822,7 +822,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2025, 18:11:37 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2025, 19:08:54 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
