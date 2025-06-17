@@ -735,7 +735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aria2/aria2</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</div>
@@ -875,7 +875,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2025, 14:15:15 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jun 2025, 15:11:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
