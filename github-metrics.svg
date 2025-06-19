@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crocodyli/ThreatActors-TTPs</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository created to share information about tactics, techniques and procedures used by threat actors. Initially with ransomware groups and evolving to other types of threats.</div>
@@ -865,7 +865,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2025, 10:41:38 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2025, 11:42:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
