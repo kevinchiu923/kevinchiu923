@@ -622,7 +622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robertdavidgraham/masscan</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.</div>
@@ -868,7 +868,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 05:08:44 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 06:09:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
