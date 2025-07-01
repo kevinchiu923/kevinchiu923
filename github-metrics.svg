@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allure-framework/allure2</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process</div>
@@ -647,7 +647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astral-sh/uv</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extremely fast Python package and project manager, written in Rust.</div>
@@ -881,7 +881,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2025, 08:57:13 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jul 2025, 10:57:02 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
