@@ -752,7 +752,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/wg-vulnerability-disclosures</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting and communication.</div>
@@ -1039,7 +1039,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2025, 13:10:09 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2025, 14:14:39 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
