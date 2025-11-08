@@ -760,7 +760,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rejetto/hfs</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HFS is a web file server for your computer. Share folders or even a single file thanks to the virtual file system.</div>
@@ -1053,7 +1053,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2025, 22:08:35 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2025, 23:08:47 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
