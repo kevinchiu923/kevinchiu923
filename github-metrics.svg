@@ -769,7 +769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>naudio/NAudio</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audio and MIDI library for .NET</div>
@@ -822,7 +822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PortAudio/portaudio</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PortAudio is a cross-platform, open-source C language library for real-time audio input and output.</div>
@@ -1068,7 +1068,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2025, 08:47:33 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2025, 10:22:33 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
