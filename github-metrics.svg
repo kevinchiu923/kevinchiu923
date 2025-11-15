@@ -769,7 +769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>naudio/NAudio</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audio and MIDI library for .NET</div>
@@ -822,7 +822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PortAudio/portaudio</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PortAudio is a cross-platform, open-source C language library for real-time audio input and output.</div>
@@ -928,7 +928,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prowler-cloud/prowler</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments &amp; audits, incident response, compliance, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, ENS and more</div>
@@ -1068,7 +1068,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2025, 18:09:29 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2025, 19:07:31 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
