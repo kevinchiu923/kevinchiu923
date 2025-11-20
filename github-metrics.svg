@@ -776,7 +776,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dirkjanm/PrivExchange</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exchange your privileges for Domain Admin privs by abusing Exchange</div>
@@ -829,7 +829,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dirkjanm/adconnectdump</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dump Azure AD Connect credentials for Azure AD and Active Directory</div>
@@ -882,7 +882,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpecterOps/BloodHound</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Six Degrees of Domain Admin</div>
@@ -935,7 +935,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>naudio/NAudio</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audio and MIDI library for .NET</div>
@@ -1075,7 +1075,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2025, 18:11:33 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2025, 19:09:50 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
