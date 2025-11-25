@@ -783,7 +783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluent/fluent-bit</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</div>
@@ -1082,7 +1082,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2025, 21:26:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2025, 22:11:07 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
