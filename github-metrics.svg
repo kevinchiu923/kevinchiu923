@@ -787,7 +787,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x90n/InfoSec-Black-Friday</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the deals for InfoSec related software/tools this Black Friday</div>
@@ -828,7 +828,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluent/fluent-bit</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</div>
@@ -1074,7 +1074,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2025, 14:14:54 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 15:09:46 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
