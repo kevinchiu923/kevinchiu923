@@ -788,7 +788,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x90n/InfoSec-Black-Friday</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the deals for InfoSec related software/tools this Black Friday</div>
@@ -882,7 +882,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epi052/feroxbuster</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, simple, recursive content discovery tool written in Rust.</div>
@@ -1075,7 +1075,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2025, 17:09:47 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2025, 18:10:23 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
