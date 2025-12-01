@@ -791,7 +791,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leask/Tabminal</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tab(ter)minal, the Cloud-Native, Proactive AI Integrated Terminal works in modern browsers.</div>
@@ -885,7 +885,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluent/fluent-bit</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</div>
@@ -1078,7 +1078,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2025, 14:18:18 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2025, 15:14:41 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
