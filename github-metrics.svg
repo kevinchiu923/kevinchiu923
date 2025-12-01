@@ -791,7 +791,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anduril/sample-app-thumbnail</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample application showcasing the use of the Objects APIs</div>
@@ -844,7 +844,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anduril/sample-app-auto-reconnaissance</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample application showcasing the use of the Tasks and Entities APIs</div>
@@ -897,7 +897,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leask/Tabminal</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tab(ter)minal, the Cloud-Native, Proactive AI Integrated Terminal works in modern browsers.</div>
@@ -1078,7 +1078,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2025, 00:15:09 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2025, 01:12:54 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
