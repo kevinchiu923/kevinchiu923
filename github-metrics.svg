@@ -794,7 +794,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fogleman/Minecraft</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Minecraft-inspired program using Python and Pyglet</div>
@@ -847,7 +847,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michelpereira/awesome-open-source-games</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of Games that have the source code available on GitHub</div>
@@ -894,7 +894,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Warzone2100/warzone2100</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+</div>
@@ -1087,7 +1087,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2025, 06:08:35 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2025, 07:10:17 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
