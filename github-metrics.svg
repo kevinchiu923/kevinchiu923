@@ -794,7 +794,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anduril/sample-app-thumbnail</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample application showcasing the use of the Objects APIs</div>
@@ -847,7 +847,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anduril/sample-app-auto-reconnaissance</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample application showcasing the use of the Tasks and Entities APIs</div>
@@ -953,7 +953,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x90n/InfoSec-Black-Friday</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the deals for InfoSec related software/tools this Black Friday</div>
@@ -1081,7 +1081,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2025, 17:14:44 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2025, 18:13:04 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
