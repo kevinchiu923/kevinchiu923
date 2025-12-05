@@ -795,7 +795,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apernet/OpenGFW</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux</div>
@@ -948,7 +948,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Warzone2100/warzone2100</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+</div>
@@ -1088,7 +1088,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2025, 11:45:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2025, 12:20:33 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
