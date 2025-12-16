@@ -810,7 +810,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacktop/ipsw</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iOS/macOS Research Swiss Army Knife</div>
@@ -863,7 +863,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clong/DetectionLab</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automate the creation of a lab environment complete with security tooling and logging best practices</div>
@@ -969,7 +969,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angr/angr</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful and user-friendly binary analysis platform!</div>
@@ -1109,7 +1109,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2025, 16:16:30 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2025, 17:16:51 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
