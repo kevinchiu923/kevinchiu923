@@ -819,7 +819,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edward-playground/aidefend-mcp</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AIDEFEND MCP is a local-first AI Security Defensive Assistant that brings the full AIDEFEND countermeasure library into your environment and turns static knowledge into actionable protection for LLMs and agentic AI systems — privately, securely, and on-device.</div>
@@ -872,7 +872,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edward-playground/aidefense-framework</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source knowledge base of defensive countermeasures to protect AI/ML systems. Features interactive views and maps defenses to known threats from frameworks like MITRE ATLAS, MAESTRO, and OWASP.</div>
@@ -919,7 +919,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Termix-SSH/Termix</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.</div>
@@ -1112,7 +1112,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2025, 11:54:58 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2025, 12:29:20 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
