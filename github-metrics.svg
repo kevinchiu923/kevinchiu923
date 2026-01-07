@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>21dev-org/21dev-org</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">華語中文圈最全面的比特幣技術教育平台 | Bitcoin Education Platform for Chinese Community</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiny-pilot/tinypilot</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use your Raspberry Pi as a browser-based KVM.</div>
@@ -475,7 +475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ninedter/pcap-hunter</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PCAP Hunter is an AI threat hunting workbench. It uses Zeek and Tshark to analyze PCAPs, enriched by OSINT. Features include a world map, JA3 forensics, and C2 detection. It generates multi-language security reports via local or cloud LLMs, prioritizing privacy and speed.</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2026, 17:18:45 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2026, 18:13:26 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
