@@ -424,7 +424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiny-pilot/tinypilot</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use your Raspberry Pi as a browser-based KVM.</div>
@@ -477,7 +477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ninedter/pcap-hunter</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PCAP Hunter is an AI threat hunting workbench. It uses Zeek and Tshark to analyze PCAPs, enriched by OSINT. Features include a world map, JA3 forensics, and C2 detection. It generates multi-language security reports via local or cloud LLMs, prioritizing privacy and speed.</div>
@@ -670,7 +670,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2026, 17:17:38 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2026, 18:12:43 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
