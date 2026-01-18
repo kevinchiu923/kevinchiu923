@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spacedriveapp/spacedrive</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</div>
@@ -435,7 +435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scipag/vulscan</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced vulnerability scanning with Nmap NSE</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2026, 14:17:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2026, 15:12:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
