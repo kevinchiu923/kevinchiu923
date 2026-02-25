@@ -432,7 +432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</div>
@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-tw/book-tw</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust 程式設計語言（正體中文翻譯）</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python/mypy</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Optional static typing for Python</div>
@@ -591,7 +591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psf/black</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The uncompromising Python code formatter</div>
@@ -731,7 +731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2026, 16:34:30 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2026, 17:40:55 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
