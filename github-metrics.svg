@@ -545,7 +545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</div>
@@ -598,7 +598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-tw/book-tw</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust 程式設計語言（正體中文翻譯）</div>
@@ -738,7 +738,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2026, 17:36:27 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2026, 18:34:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
