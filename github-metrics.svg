@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            626 Commits
+                            638 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.92276300190274" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="127.92276300190274" y="0" width="94.66480830570593" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="222.58757130760867" y="0" width="91.59712103470537" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="314.18469234231407" y="0" width="90.9305712974447" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="405.1152636397587" y="0" width="41.518256233332025" height="8" fill="#00c0b5"/>
-                    <rect mask="url(#languages-bar)" x="446.63351987309073" y="0" width="7.540763493423243" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.174283366514" y="0" width="3.1962018966019152" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.3704852631159" y="0" width="2.629514736884078" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.48747978662783" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="127.48747978662783" y="0" width="94.34269204456734" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="221.83017183119514" y="0" width="92.76430623654932" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="314.5944780677445" y="0" width="90.62116153711494" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="405.2156396048594" y="0" width="41.3938279153098" height="8" fill="#00c0b5"/>
+                    <rect mask="url(#languages-bar)" x="446.60946752016923" y="0" width="7.51510451215971" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.12457203232896" y="0" width="3.254860689412998" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.379432721742" y="0" width="2.620567278258074" height="8" fill="#ecdebe"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MakiDevelop/hook-gym</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test harness for Claude Code hooks — batch-run violation cases against your guardrails</div>
@@ -888,7 +888,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2026, 14:52:07 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2026, 17:51:16 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
