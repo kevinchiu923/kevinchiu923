@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1722 Commits
+                            1743 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -64,11 +64,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.45807305178772" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="221.45807305178772" y="0" width="134.62084261464014" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="356.07891566642786" y="0" width="42.332779720690795" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="398.4116953871187" y="0" width="34.920764353825106" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.33245974094376" y="0" width="26.66754025905623" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.55798239656465" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="216.55798239656465" y="0" width="131.66954513329327" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="348.2275275298579" y="0" width="41.39610373746545" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="389.6236312673234" y="0" width="36.22827845085707" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.8519097181805" y="0" width="34.148090281819556" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -91,15 +91,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C++
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C++
                     </div>
                 </div>
             </section>
@@ -502,6 +502,7 @@
                                 <g transform="translate(645, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
