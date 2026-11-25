@@ -64,11 +64,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.32790326539737" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="247.32790326539737" y="0" width="110.9001511152294" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="358.22805438062676" y="0" width="37.53278827354293" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="395.76084265416966" y="0" width="35.20126008381929" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="430.96210273798897" y="0" width="29.037897262011025" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.3580310291051" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="248.3580310291051" y="0" width="110.36297991873839" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="358.72101094784347" y="0" width="37.35098930770027" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="396.07200025554374" y="0" width="35.030754427992285" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="431.10275468353603" y="0" width="28.89724531646399" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -538,6 +538,7 @@
                                 <g transform="translate(705, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
